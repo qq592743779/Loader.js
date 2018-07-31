@@ -1,5 +1,5 @@
-# Loader.js
-资源预加载插件
+# Loader.js \n
+资源预加载插件 \n
 
 使用方法：
 var loader = new Loader({
